@@ -1,0 +1,9 @@
+[build]
+base = "chris-lora.github.io/"
+publish = "chris-lora.github.io/build/"
+command = "yarn build"
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200

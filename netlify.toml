@@ -1,4 +1,4 @@
 [build]
-base = "myapp/"
-publish = "myapp/build/"
+base = "chris-lora.github.io/"
+publish = "chris-lora.github.io/build/"
 command = "yarn build"
